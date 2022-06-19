@@ -5,20 +5,22 @@
     align-items: center;
     justify-content: space-between;
     padding: 5%;
-    background: linear-gradient(#672280, #A626D3);
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
     color: white;
 }
 .logo{
     display: flex;
+    align-items: center;
 }
 .logo img{
-    width: 26px;
+    width: 31px;
 }
 .logo p{
     font-weight: 700;
-    font-size: 1.2em;
+    font-size: 1.25rem;
     padding-left: .25em;
 }
 p{
     font-weight: 200;
+    font-size: .85rem;
 }
