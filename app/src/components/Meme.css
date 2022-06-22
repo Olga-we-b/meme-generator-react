@@ -1,15 +1,15 @@
-form{
-    padding-block: 5%;
+main{
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
-    gap: 1rem;
 }
 .inputs{
     width: 440px;
     display: flex;
     gap: 1rem;
     justify-content: space-between;
+    padding-block: 2rem;
 
 }
 input{
@@ -41,4 +41,18 @@ input{
 }
 .custom-button p{
     font-weight: 700;
+}
+.picture-frame{
+    padding-top: 1rem;
+    width: 700px;
+
+
+
+}
+.picture-frame img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    
+
 }

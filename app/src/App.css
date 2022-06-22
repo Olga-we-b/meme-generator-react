@@ -1,5 +1,6 @@
 .generator-file{
-  width: 40vw;
-  height: 70vh;
   background-color: #ffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

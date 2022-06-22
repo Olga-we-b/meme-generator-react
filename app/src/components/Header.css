@@ -1,10 +1,10 @@
 .header{
-    width: 100%;
+    width: 100vw;
     height: 65px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 5%;
+    padding-inline: 5%;
     background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
     color: white;
 }
